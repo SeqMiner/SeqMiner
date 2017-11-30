@@ -4,6 +4,8 @@ A Fast Monero CPU Miner
 Usage:
 SeqMiner [pool url] [port] [address] [optional: password]
 
+Download here: https://github.com/SeqMiner/SeqMiner/releases/download/Beta1/SeqMiner.Beta.1.zip
+
 ## FAQ ##
 ### How fast is SeqMiner?  ###
 On an i7 4770k SeqMiner achieves 320 hashes/second
