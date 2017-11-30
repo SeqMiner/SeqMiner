@@ -8,7 +8,7 @@ Download here: https://github.com/SeqMiner/SeqMiner/releases/download/Beta1/SeqM
 
 ## FAQ ##
 ### How fast is SeqMiner?  ###
-On an i7 4770k SeqMiner achieves 330 hashes/second
+On an i7-4770k SeqMiner achieves 330 hashes/second.  About 10% faster than xmr-stak.
 
 ### What is the fee? ###
 SeqMiner has a fee of 3%
