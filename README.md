@@ -1,10 +1,12 @@
 # SeqMiner (Beta) #
 A Fast Monero CPU Miner
 
-Usage:
+Download here: https://github.com/SeqMiner/SeqMiner/releases/download/Beta1/SeqMiner.Beta1.zip
+
+## Usage ##
 SeqMiner [pool url] [port] [address] [optional: password]
 
-Download here: https://github.com/SeqMiner/SeqMiner/releases/download/Beta1/SeqMiner.Beta1.zip
+Alternatively you can edit run.bat to add your pool and address.
 
 ## FAQ ##
 ### How fast is SeqMiner?  ###
