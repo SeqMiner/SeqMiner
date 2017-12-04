@@ -1,7 +1,7 @@
 # SeqMiner (Beta) #
 A Fast Monero CPU Miner
 
-Download here: https://github.com/SeqMiner/SeqMiner/releases/download/Beta2/SeqMiner.Beta2.zip
+Download here: https://github.com/SeqMiner/SeqMiner/releases/download/Beta3/SeqMiner.Beta3.zip
 
 ## Usage ##
 SeqMiner [pool url] [port] [address] [optional: password]
