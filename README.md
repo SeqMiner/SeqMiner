@@ -10,7 +10,9 @@ Alternatively you can edit run.bat to add your pool and address.
 
 ## FAQ ##
 ### How fast is SeqMiner?  ###
-On an i7-4770k SeqMiner achieves 330 hashes/second.  About 10% faster than xmr-stak.
+On an i7-4770k SeqMiner achieves 330 hashes/second.  About 10% faster than xmr-stak
+
+NOTE: The miner is currently significantly slower on i5 CPUs.  I recommend not using it on those CPUs until this issue is fixed.
 
 ### What is the fee? ###
 SeqMiner has a fee of 3%
