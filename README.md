@@ -20,3 +20,6 @@ At the moment SeqMiner self-calibrates for 100% CPU usage.  In the future more t
 
 ### Is there a Linux version? ###
 Its on the way.  However for the near future only a windows version is available.
+
+### What CPUs are Supported? ###
+Westmere and above are supported.  You must have AES-NI and SSE4 support.  The software will check on startup if your machine is supported.
